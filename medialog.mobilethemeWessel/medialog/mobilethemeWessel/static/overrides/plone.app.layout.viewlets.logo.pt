@@ -5,4 +5,4 @@
                    title view/navigation_root_title"
    i18n:domain="plone"
    i18n:attributes="title">
-    <img src="++theme++medialog.mobilethemeWessel/assets/images/wesselstuen_logo.png" alt="Logo" /></a>
+    <img src="/++theme++medialog.mobilethemeWessel/assets/images/wesselstuen_logo.png" alt="Logo" /></a>
