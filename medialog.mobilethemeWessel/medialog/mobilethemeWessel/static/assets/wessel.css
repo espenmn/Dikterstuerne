@@ -67,7 +67,7 @@ html,button,input,select,textarea {
 	max-width: 50%;
 	position: absolute;
 	top: 10px;
-	z-index: 5;
+	z-index: 2;
 	display: block;
 	
 }
