@@ -88,6 +88,7 @@ div.contakt-info,
 div.container {
 	padding-left: 1em;
 	padding-right: 1em;
+	padding-top: 1em;
 	background: white;
 	float: left;
 	clear: both;
