@@ -1,5 +1,6 @@
 ul#portal-globalnav {
-z-index: 9	
+	z-index: 9;
+	position: absolute;
 }
 
 
