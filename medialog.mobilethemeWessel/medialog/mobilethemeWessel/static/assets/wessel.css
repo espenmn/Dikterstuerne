@@ -1,3 +1,5 @@
+/* @override http://xweb14f.plana.dk:9084/Wesselstuen/front-page/++theme++medialog.mobilethemeWessel/assets/wessel.css */
+
 ul#portal-globalnav {
 	z-index: 9;
 	position: relative;
@@ -88,7 +90,7 @@ div.contakt-info,
 div.container {
 	padding-left: 1em;
 	padding-right: 1em;
-	padding-top: 1em;
+
 	background: white;
 	float: left;
 	clear: both;
@@ -97,7 +99,7 @@ div.container {
 div.container{
 	clear:  both;
 	border-top:  1px solid #565656;
-	padding-top: 10px;
+	padding-top: 1.3em;
 	padding-bottom:  1em;
 }
 
