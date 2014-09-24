@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<object name="portal_css" meta_type="Stylesheets Registry">
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="reset.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+ <stylesheet title="" applyPrefix="False" authenticated="True"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="member.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+    
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="base.css" media="screen"
+    rel="stylesheet" rendering="link"/>
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="public.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="columns.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+    
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="authoring.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+    
+ 
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="deprecated.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="navtree.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="forms.css"
+    media="screen" rel="stylesheet" rendering="link"/>
+
+ 
+ <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression="" id="mobile.css"
+    media="handheld, screen and (max-device-width: 480px)" rel="stylesheet"
+    rendering="link"/>
+ 
+ 
+  <stylesheet title="" applyPrefix="False" authenticated="False"
+    bundle="default" cacheable="True" compression="safe" conditionalcomment=""
+    cookable="True" enabled="False" expression=""
+    id="++resource++ftw.mobilenavigation/navigation.css" media=""
+    rel="stylesheet" rendering="link"/>
+ 
+</object>
