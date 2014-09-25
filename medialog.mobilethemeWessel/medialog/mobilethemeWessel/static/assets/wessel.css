@@ -1,4 +1,3 @@
-/* @override http://xweb14f.plana.dk:9084/Wesselstuen/front-page/++theme++medialog.mobilethemeWessel/assets/wessel.css */
 
 ul#portal-globalnav {
 	z-index: 9;
@@ -1193,5 +1192,4 @@ div#ajax-spinner {
 	}
 
 /* @end */
-
-@media only screen and (orientation: landscape) {
+ 

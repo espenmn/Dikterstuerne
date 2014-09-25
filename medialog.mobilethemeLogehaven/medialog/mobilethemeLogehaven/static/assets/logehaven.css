@@ -1,4 +1,4 @@
-#parent-fieldname-description
+#parent-fieldname-description,
 #content-core{
  clear:both;   
 }
@@ -1181,5 +1181,3 @@ div#ajax-spinner {
 	}
 
 /* @end */
-
-@media only screen and (orientation: landscape) {
