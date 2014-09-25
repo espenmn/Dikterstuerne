@@ -857,6 +857,8 @@ img.button {
 
 img.button:hover {
 	opacity: 1;
+	-webkit-filter:none;
+	filter: none;
 }
 
 .social a:hover img {
