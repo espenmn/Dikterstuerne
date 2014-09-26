@@ -25,11 +25,5 @@
     directory="static/overrides"
     layer="medialog.mobilethemeHolbergstuen.interfaces.IMobilethemeHolbergstuenLayer" /-->
       
-  <browser:page
-    name="cache.manifest3"
-    for="plone.app.layout.navigation.interfaces.INavigationRoot"
-    class=".views.Manifest"
-    permission="zope2.Public"
-  />
-     
+
 </configure>
