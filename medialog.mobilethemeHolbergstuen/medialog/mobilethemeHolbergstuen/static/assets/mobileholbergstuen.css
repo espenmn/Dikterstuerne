@@ -869,8 +869,9 @@ img.button:hover {
 	padding-top: 5px;
 }
 #viewlet-above-content  ul#slider{
-margin-bottom:  0;
+	margin-bottom:  0;
 }
+
 #my_slider li {
  position: relative; 
  list-style-type: none;
