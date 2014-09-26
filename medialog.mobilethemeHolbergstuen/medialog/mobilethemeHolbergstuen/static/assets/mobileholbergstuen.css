@@ -863,6 +863,13 @@ img.button:hover {
 }
 
 /* Slider */
+
+#viewlet-above-content {
+	margin-top:  10px;
+	padding-top: 5px;
+}
+
+
 #my_slider li {
  position: relative; 
  list-style-type: none;
