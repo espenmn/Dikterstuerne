@@ -37,7 +37,7 @@
         <!-- Personal tools, remove if you dont edit on mobile -->
         <replace css:content="#portal-personaltools" css:theme="#portal-personaltools" />
         
-        <replace css:content="#edit-bar" css:theme="#edit-bar" />
+        <replace css:content="#edit-bar" css:theme="#edit-bar" css:if-not-content="body.section-front-page"/>
         <replace css:content="#portal-logo" css:theme="#portal-logo" />
         <replace css:content="#portal-globalnav" css:theme="#portal-globalnav" />
         <replace css:content="#portal-searchbox" css:theme="#portal-searchbox" />
