@@ -46,6 +46,8 @@
 #edit-bar {
 	clear: both;
 	padding-top: 45px;
+    z-index:12;
+	position:  relative;
 }
 
 /*
