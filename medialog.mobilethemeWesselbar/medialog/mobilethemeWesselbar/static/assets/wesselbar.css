@@ -12,7 +12,7 @@ ul#portal-languageselector li img {
 	margin: 0;
 	padding: 0;
 }
-#portal-languageselector li.currentLanguage.language-no a img {
+#portal-languageselector li.currentLanguage a img {
 opacity: 0.5;	
 }
 
