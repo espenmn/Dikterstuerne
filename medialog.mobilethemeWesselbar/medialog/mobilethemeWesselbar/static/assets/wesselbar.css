@@ -1,3 +1,21 @@
+ul#portal-languageselector {
+ 	margin: 0.6em 0.3em 0 0;
+ 	padding-left: 1em;
+	width:auto;
+	float: right;
+	list-style-image: none;
+	list-style-type: none;
+}
+
+ul#portal-languageselector li,
+ul#portal-languageselector li img {
+	margin: 0;
+	padding: 0;
+}
+#portal-languageselector li.currentLanguage.language-no a img {
+opacity: 0.5;	
+}
+
 #parent-fieldname-description,
 #content-core{
  clear:both;   

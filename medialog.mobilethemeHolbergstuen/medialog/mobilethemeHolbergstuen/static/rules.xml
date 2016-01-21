@@ -46,6 +46,7 @@
         <after theme-children="/html/head" content="/html/head/script" />
         <!-- Personal tools, remove if you dont edit on mobile -->
         <replace css:content="#portal-personaltools" css:theme="#portal-personaltools" />
+        <replace  css:content="#portal-languageselector" css:theme="#portal-languageselector" />     
         
         <replace css:content="#edit-bar" css:theme="#edit-bar" css:if-not-content="body.section-front-page"/>
         <replace css:content="#portal-logo" css:theme="#portal-logo" />
